@@ -1,0 +1,12 @@
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Entity\bin\Release\net6.0\WorkManager.Entity.deps.json
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Entity\bin\Release\net6.0\WorkManager.Entity.dll
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Entity\bin\Release\net6.0\ref\WorkManager.Entity.dll
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Entity\bin\Release\net6.0\WorkManager.Entity.pdb
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Entity\obj\Release\net6.0\WorkManager.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Entity\obj\Release\net6.0\WorkManager.Entity.AssemblyInfoInputs.cache
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Entity\obj\Release\net6.0\WorkManager.Entity.AssemblyInfo.cs
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Entity\obj\Release\net6.0\WorkManager.Entity.csproj.CoreCompileInputs.cache
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Entity\obj\Release\net6.0\WorkManager.Entity.dll
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Entity\obj\Release\net6.0\ref\WorkManager.Entity.dll
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Entity\obj\Release\net6.0\WorkManager.Entity.pdb
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Entity\obj\Release\net6.0\WorkManager.Entity.csproj.AssemblyReference.cache

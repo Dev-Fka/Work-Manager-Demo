@@ -1,0 +1,17 @@
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-9 mt-5">
+            <ol class="list-group list-group-numbered">
+                <li class="list-group-item d-flex justify-content-between align-items-start" *ngFor="let works of succeededWorks">
+                  <div class="ms-2 me-auto">
+                    <div class="fw-bold">{{works.name}}</div>
+                    {{works.description}}
+                  </div>
+                  <span *ngIf="works.isMonthly" class="badge bg-primary rounded-pill">Monthly</span>
+                  <span *ngIf="works.isWeekly" class="badge bg-primary rounded-pill">Weekly</span>
+                  <span *ngIf="works.isDaily" class="badge bg-primary rounded-pill">Daily</span>
+                </li>
+              </ol>
+        </div>
+    </div>
+</div>

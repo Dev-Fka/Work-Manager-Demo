@@ -1,0 +1,49 @@
+<div class="container">
+    <div class="row">
+        <div [class]="getAlert(isAdded)">
+           <p class="fw-bold fs-2">ADDED!!</p> 
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-md-9 bg-secondary rounded mt-5">
+            <div class="text-center">
+                <h2 class="d-inline mt-1 mb-2 text-white">ADD TASK</h2>
+            </div>
+            <form action="">
+                <div class="input-group p-2 mt-2 justify-content-center">
+                    <div class="col-md-4">
+                        <input required [ngModelOptions]="{standalone: true}" [(ngModel)]="work.name" type="text" class="form-control d-inline" placeholder="Name">
+                    </div>
+                </div>
+                <div class="row mt-3 mb-2">
+                    <div class="col-md-9 form-group-lg">
+                        <textarea [ngModelOptions]="{standalone: true}" [(ngModel)]="work.description" class="rounded form-control" placeholder="Leave a description here.." name="" id=""></textarea>
+                    </div>
+                    <div class="col-md-3 ">
+                        <div class="form-check">
+                            <input [ngModelOptions]="{standalone: true}" [(ngModel)]="work.isMonthly"  id="checkbox1" type="checkbox" class="form-check-input" >
+                            <label class="form-chechk-label text-white" for="checkbox1">Monthly</label>
+                        </div>
+                        <div class="form-check">
+                            <input [ngModelOptions]="{standalone: true}" [(ngModel)]="work.isWeekly" id="checkbox2" type="checkbox" class="form-check-input">
+                            <label class="form-chechk-label text-white" for="checkbox2">Weekly</label>
+                        </div>
+                        <div class="form-check">
+                            <input [ngModelOptions]="{standalone: true}" [(ngModel)]="work.isDaily" id="checkbox3" type="checkbox" class="form-check-input" >
+                            <label class="form-chechk-label text-white" for="checkbox3">Daily</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="row p-2">
+                    <div class="col-md-9 ">
+                        <div class="row justify-content-end">
+                            <div class="col-md-6 ">
+                                <button (click)="sendWork(work)" class="btn btn-info btn-lg">ADD TASK</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

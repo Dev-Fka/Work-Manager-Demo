@@ -1,0 +1,17 @@
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Database\obj\Debug\net6.0\WorkManager.Database.csproj.AssemblyReference.cache
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Database\obj\Debug\net6.0\WorkManager.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Database\obj\Debug\net6.0\WorkManager.Database.AssemblyInfoInputs.cache
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Database\obj\Debug\net6.0\WorkManager.Database.AssemblyInfo.cs
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Database\obj\Debug\net6.0\WorkManager.Database.csproj.CoreCompileInputs.cache
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Database\bin\Debug\net6.0\WorkManager.Database.deps.json
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Database\bin\Debug\net6.0\WorkManager.Database.runtimeconfig.json
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Database\bin\Debug\net6.0\WorkManager.Database.dll
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Database\bin\Debug\net6.0\ref\WorkManager.Database.dll
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Database\bin\Debug\net6.0\WorkManager.Database.pdb
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Database\bin\Debug\net6.0\WorkManager.Entity.dll
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Database\bin\Debug\net6.0\WorkManager.Entity.pdb
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Database\obj\Debug\net6.0\WorkManager.Database.csproj.CopyComplete
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Database\obj\Debug\net6.0\WorkManager.Database.dll
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Database\obj\Debug\net6.0\ref\WorkManager.Database.dll
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Database\obj\Debug\net6.0\WorkManager.Database.pdb
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Database\obj\Debug\net6.0\WorkManager.Database.genruntimeconfig.cache

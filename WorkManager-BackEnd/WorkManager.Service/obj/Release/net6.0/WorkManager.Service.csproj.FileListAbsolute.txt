@@ -1,0 +1,17 @@
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Service\bin\Release\net6.0\WorkManager.Service.deps.json
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Service\bin\Release\net6.0\WorkManager.Service.dll
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Service\bin\Release\net6.0\ref\WorkManager.Service.dll
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Service\bin\Release\net6.0\WorkManager.Service.pdb
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Service\bin\Release\net6.0\WorkManager.Database.dll
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Service\bin\Release\net6.0\WorkManager.Entity.dll
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Service\bin\Release\net6.0\WorkManager.Entity.pdb
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Service\bin\Release\net6.0\WorkManager.Database.pdb
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Service\obj\Release\net6.0\WorkManager.Service.csproj.AssemblyReference.cache
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Service\obj\Release\net6.0\WorkManager.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Service\obj\Release\net6.0\WorkManager.Service.AssemblyInfoInputs.cache
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Service\obj\Release\net6.0\WorkManager.Service.AssemblyInfo.cs
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Service\obj\Release\net6.0\WorkManager.Service.csproj.CoreCompileInputs.cache
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Service\obj\Release\net6.0\WorkManager.Service.csproj.CopyComplete
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Service\obj\Release\net6.0\WorkManager.Service.dll
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Service\obj\Release\net6.0\ref\WorkManager.Service.dll
+C:\Users\byart\Work\Work-Manager\WorkManager-BackEnd\WorkManager.Service\obj\Release\net6.0\WorkManager.Service.pdb
